@@ -7,7 +7,7 @@ This is my portfolio website to introduce myself, here I put my skills, projects
 ## Technologies used:
 - React
 - JavaScript (JSX)
-- Styled Components
+- CSS
  
 ## To run this project:
 - npm install
