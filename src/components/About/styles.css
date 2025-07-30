@@ -87,7 +87,7 @@
 @media (max-width: 960px) {
   .about-section {
     display: block;
-    text-align: center;
+    text-align: start;
   }
 
   .about-section .hard-skills {
