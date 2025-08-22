@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.853474bd.css",
-    "main.js": "/portfolio/static/js/main.2b8224c4.js",
+    "main.css": "/portfolio/static/css/main.cc2b4de0.css",
+    "main.js": "/portfolio/static/js/main.371867cb.js",
     "static/media/Hello.gif": "/portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Ishant_Resume_latest.pdf": "/portfolio/static/media/Ishant_Resume_latest.7d1b8f186862775ec84a.pdf",
-    "static/media/ishant_surani_image.webp": "/portfolio/static/media/ishant_surani_image.0e288a3427d5c7053b41.webp",
+    "static/media/ishant_surani_image.webp": "/portfolio/static/media/ishant_surani_image.f884f22a3e642be3694e.webp",
     "static/media/sass-icon.svg": "/portfolio/static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
     "static/media/jquery-icon.svg": "/portfolio/static/media/jquery-icon.2e487b05ae49ccfd862b371196aad32e.svg",
     "static/media/whatsapp.svg": "/portfolio/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
@@ -22,11 +22,11 @@
     "static/media/css-icon.svg": "/portfolio/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
-    "main.853474bd.css.map": "/portfolio/static/css/main.853474bd.css.map",
-    "main.2b8224c4.js.map": "/portfolio/static/js/main.2b8224c4.js.map"
+    "main.cc2b4de0.css.map": "/portfolio/static/css/main.cc2b4de0.css.map",
+    "main.371867cb.js.map": "/portfolio/static/js/main.371867cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.853474bd.css",
-    "static/js/main.2b8224c4.js"
+    "static/css/main.cc2b4de0.css",
+    "static/js/main.371867cb.js"
   ]
 }
